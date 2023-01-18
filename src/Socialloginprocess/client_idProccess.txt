@@ -1,0 +1,3 @@
+Your Client Id : 343703553242-7l4rpc34ksqqevueuvl4ukpkta44ltiq.apps.googleusercontent.com
+
+Your Client Secret : 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
